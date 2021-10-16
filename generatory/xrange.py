@@ -4,7 +4,7 @@ def xrange(start, end):
         start += 1
 
 
-starting_point = 5
+starting_point = 0
 ending_point = 10
 
 gen = xrange(starting_point, ending_point)
